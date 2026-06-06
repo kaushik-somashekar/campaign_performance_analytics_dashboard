@@ -1,0 +1,24 @@
+file,column,description
+campaign_daily_performance.csv,date,Daily reporting date
+campaign_daily_performance.csv,campaign_id,Unique campaign identifier
+campaign_daily_performance.csv,campaign_name,Campaign display name
+campaign_daily_performance.csv,channel,Marketing channel
+campaign_daily_performance.csv,campaign_type,Campaign strategy/type
+campaign_daily_performance.csv,region,Reporting region
+campaign_daily_performance.csv,device,Device category
+campaign_daily_performance.csv,impressions,Ad/email/search impressions
+campaign_daily_performance.csv,clicks,Clicks to website
+campaign_daily_performance.csv,spend_gbp,Marketing spend in GBP
+campaign_daily_performance.csv,conversions,Purchases or lead conversions
+campaign_daily_performance.csv,revenue_gbp,Attributed revenue in GBP
+campaign_daily_performance.csv,new_customers,Number of new customers acquired
+campaign_daily_performance.csv,assisted_conversions,Assisted conversions
+campaign_daily_performance.csv,ctr,Click-through rate
+campaign_daily_performance.csv,cpc_gbp,Cost per click
+campaign_daily_performance.csv,conversion_rate,Conversions divided by clicks
+campaign_daily_performance.csv,cpa_gbp,Cost per acquisition
+campaign_daily_performance.csv,roas,Return on ad spend
+campaign_daily_performance.csv,aov_gbp,Average order value
+channel_weekly_budget.csv,week_start,Budget week start date
+channel_weekly_budget.csv,channel,Marketing channel
+channel_weekly_budget.csv,planned_budget_gbp,Planned weekly budget
