@@ -4,7 +4,6 @@
 
 This project creates a realistic **Campaign Performance Analytics Dashboard** using digital marketing data across paid, owned, affiliate, and organic channels.
 
-It is designed as a professional **Digital Analytics / Marketing Analytics / Performance Marketing / Dashboarding** portfolio project.
 
 ---
 
